@@ -2,9 +2,11 @@
 
 ###
 
-<p align="left">Hi there 👋<br>I'm Paco, a developer specializing in Data Science, Big Data, and AI.</p>
+<p align="left">Hi there 👋<br>I'm Paco, a developer specializing in Data Science, Big Data, Machine Learning and AI.</p>
 
 ###
+
+franferti.github.io/portfolio_web
 
 <h2 align="left">About me</h2>
 
