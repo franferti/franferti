@@ -12,7 +12,7 @@ franferti.github.io/portfolio_web
 
 ###
 
-<p align="left">🔭 I'm currently collaborating with Outlier.ai as a Data Analyst and in ML Optimization and Development.<br>🌱 I'm pursuing a Master's in Data Science and Big Data applied to AI.<br>💼 You can check out my projects at https://github.com/franferti/portfolio<br>👯 I'm looking to collaborate on any project that helps me grow professionally.<br>📫 You can reach me at franfertinoco@gmail.com<br>😄 See you around! 😄</p>
+<p align="left">🔭 I'm currently collaborating with Outlier.ai as a Data Analyst and in ML Optimization and Development.<br>🌱 I'm pursuing a Master's in Data Science and Big Data applied to AI.<br>💼 You can check out my projects in my website or Github main page<br>👯 I'm looking to collaborate on any project that helps me grow professionally.<br>📫 You can reach me at franfertinoco@gmail.com<br>😄 See you around! 😄</p>
 
 ###
 
